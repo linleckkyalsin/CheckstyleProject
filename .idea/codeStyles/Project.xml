@@ -1,8 +1,11 @@
 <component name="ProjectCodeStyleConfiguration">
   <code_scheme name="Project" version="173">
     <codeStyleSettings language="JAVA">
+      <option name="DO_NOT_INDENT_TOP_LEVEL_CLASS_MEMBERS" value="true" />
       <indentOptions>
-        <option name="CONTINUATION_INDENT_SIZE" value="4" />
+        <option name="USE_TAB_CHARACTER" value="true" />
+        <option name="SMART_TABS" value="true" />
+        <option name="LABEL_INDENT_ABSOLUTE" value="true" />
       </indentOptions>
     </codeStyleSettings>
   </code_scheme>
